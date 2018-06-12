@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./menu-vertical-push.scss"],"names":[],"mappings":"AAAA;AACA,aAAa;AACb;AACA;AACA;AACA,mBAAmB","file":"main.css","sourcesContent":[".nav-primary .nav {\n  padding: 0; }\n  .nav-primary .nav li {\n    display: inline-block;\n    list-style-type: none;\n    margin: 0 .3em; }\n"],"sourceRoot":""}
